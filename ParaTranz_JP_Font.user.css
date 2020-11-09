@@ -1,0 +1,19 @@
+/* ==UserStyle==
+@name         ParaTranz ZH to JP Font Replacer
+@version      1.0.0
+@description  ParaTranzで使用されるフォントを中国語から日本語のフォントに変更します。
+@namespace    https://github.com/kuroko137/paratranz_jp_font_style
+@author       kuroko137
+@homepageURL  https://github.com/kuroko137/paratranz_jp_font_style
+@supportURL   https://github.com/kuroko137/paratranz_jp_font_style/issues
+@updateURL    https://github.com/kuroko137/paratranz_jp_font_style/master/ParaTranz_JP_Font.user.css
+@license      MIT License
+==/UserStyle== */
+
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document regexp("https?://(www\\.)?paratranz\\.cn.*") {
+* {
+		font-family: Helvetica Neue, Helvetica, Arial, Meiryo, Hiragino Kaku Gothic Pro, MS Gothic, Source Han Sans, Hiragino Sans, Noto Sans CJK JP, PingFang SC, Microsoft YaHei, WenQuanYi Micro Hei, sans-serif;
+	}
+}
