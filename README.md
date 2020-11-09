@@ -1,0 +1,2 @@
+# paratranz_jp_font_style
+ParaTranzのフォントを中国語から日本語のフォントに変更するStylish/Stylus用ユーザースタイルです。
