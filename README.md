@@ -8,6 +8,3 @@ https://github.com/kuroko137/paratranz_jp_font_style/raw/main/ParaTranz_JP_Font.
 
 ### 表示例:
 ![](https://github.com/kuroko137/paratranz_jp_font_style/raw/main/img/sample.png)
-
-### ミラー:
-[ParaTranz ZH to JP Font Replacer - userstyles.org](https://userstyles.org/styles/192348/paratranz-zh-to-jp-font-replacer)
